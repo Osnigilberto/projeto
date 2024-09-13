@@ -11,15 +11,14 @@ Esse projeto é a criação do meu portfólio.
 </p>
 
 <p align="center">
-  <img alt="Portfólio" src=".github/preview.png">
   <img alt="Portfólio" src=".github/preview2.png">
+  <img alt="Portfólio" src=".github/modolight.png">
+  <img alt="mobile" src=".github/preview.jpg">
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
